@@ -53,10 +53,11 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-ovo">
-            I am an experienced Frontend Developer with over a decade of
-            professional expertise in the field. Throughout my career, I have
-            had the privilege of collaborating with prestigious organizations,
-            contributing to their success and growth.
+            I am a skilled Full Stack Developer from Uttar Pradesh, India, with
+            hands-on experience in building scalable web applications using the
+            MERN stack. Throughout my journey, I’ve developed and deployed
+            real-world projects, collaborating across teams to deliver
+            responsive, performance-optimized solutions.
           </p>
           <motion.ul
             initial={{ opacity: 0 }}
